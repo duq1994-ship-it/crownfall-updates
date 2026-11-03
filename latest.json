@@ -1,5 +1,5 @@
 {
-  "apkUrl": "https://github.com/duq1994-ship-it/crownfall-updates/releases/download/v1.4.6/Crownfall-3D-Chess.apk",
-  "version": "1.4.6",
-  "notes": "캐릭터 모델·공격 모션 6종, 백색·흑색 병사 색상, 캐시 기반 재생 및 관리자 공격 모션 확인 모드 반영"
+  "apkUrl": "https://github.com/duq1994-ship-it/crownfall-updates/releases/download/v1.4.7/Crownfall-3D-Chess.apk",
+  "version": "1.4.7",
+  "notes": "공격 모션 보정: 나이트 몸 관통 방지·양손 창, 빠른 비숍 베기, 룩·킹 내려치기, 퀸 베기·분홍 꽃잎 및 관절 연결 개선"
 }
