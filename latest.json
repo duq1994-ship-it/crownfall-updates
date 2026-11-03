@@ -1,5 +1,5 @@
 {
-  "apkUrl": "https://github.com/duq1994-ship-it/crownfall-updates/releases/download/v1.2.2/Crownfall-3D-Chess.apk",
-  "version": "1.2.2",
-  "notes": "Android 메뉴 UI 표시 보완: 시작 장면에 UI 포함, 메뉴 그리기 컴포넌트 분리, UI 모듈 보존 및 새 빌드"
+  "apkUrl": "https://github.com/duq1994-ship-it/crownfall-updates/releases/download/v1.4.6/Crownfall-3D-Chess.apk",
+  "version": "1.4.6",
+  "notes": "캐릭터 모델·공격 모션 6종, 백색·흑색 병사 색상, 캐시 기반 재생 및 관리자 공격 모션 확인 모드 반영"
 }
