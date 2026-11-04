@@ -1,5 +1,5 @@
 {
-  "version": "1.4.11",
-  "apkUrl": "https://github.com/duq1994-ship-it/crownfall-updates/releases/download/v1.4.11/Crownfall-3D-Chess.apk",
-  "notes": "공격 관절 회전 뒤집힘·손목·양손 무기 그립 보정, 폰 이동 경로 이탈 수정, 퀸·룩·킹 공격 자세 및 기물 간격 개선"
+  "version": "1.4.12",
+  "apkUrl": "https://github.com/duq1994-ship-it/crownfall-updates/releases/download/v1.4.12/Crownfall-3D-Chess.apk",
+  "notes": "실제 기물 표면 기준 타격점·피격 시점 수정, 팔꿈치·무릎·손목 연결 보정, 킹 금빛 오라 추가, 검·망치·피격 효과음 교체"
 }
