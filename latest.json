@@ -1,5 +1,5 @@
 {
-  "version": "1.4.9",
-  "apkUrl": "https://github.com/duq1994-ship-it/crownfall-updates/releases/download/v1.4.9/Crownfall-3D-Chess.apk",
-  "notes": "필수 업데이트: 이전 버전 플레이 차단·APK 설치 후 실행, 왕실 테마 UI·기물 표면 개선, 멀티 방 제목·비밀번호·재대전·시간초과 턴 넘김"
+  "version": "1.4.10",
+  "apkUrl": "https://github.com/duq1994-ship-it/crownfall-updates/releases/download/v1.4.10/Crownfall-3D-Chess.apk",
+  "notes": "상시 BGM을 The Midnight Gambit으로 교체. 곡 전체 반복 재생·앱 복귀 재생·BGM ON/OFF 유지. 필수 업데이트와 최신 멀티 서버 패치 포함."
 }
