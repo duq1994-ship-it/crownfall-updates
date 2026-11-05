@@ -1,5 +1,5 @@
 {
-  "version": "1.4.13",
-  "apkUrl": "https://github.com/duq1994-ship-it/crownfall-updates/releases/download/v1.4.13/Crownfall-3D-Chess.apk",
-  "notes": "관리자 버튼 겹침과 가독성 개선, AI 난이도 1~20단계 직접 선택"
+  "version": "1.4.14",
+  "apkUrl": "https://github.com/duq1994-ship-it/crownfall-updates/releases/download/v1.4.14/Crownfall-3D-Chess.apk",
+  "notes": "나이트 양손 창 그립과 전신 찌르기 재제작, 6종 관절·타점 재검수, 폰·나이트·비숍·룩 공격 속도 12% 증가, 퀸·킹 65% 증가 및 왕실 이펙트 강화"
 }
